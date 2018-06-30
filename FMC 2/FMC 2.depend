@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1483526864 source:/home/sagrika/Documents/Programs in C/FMC 2/main.c
+	<stdio.h>
+	<stdlib.h>
+

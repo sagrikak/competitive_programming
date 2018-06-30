@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1473910341 source:c:\users\saumay\desktop\programs in c\chef and calculation\main.c
+	<stdio.h>
+	<stdlib.h>
+

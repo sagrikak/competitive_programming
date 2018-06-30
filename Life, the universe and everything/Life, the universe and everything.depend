@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1475375110 source:c:\users\saumay\desktop\programs in c\life, the universe and everything\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1479490893 source:c:\users\saumay\desktop\programs in c\fredo is in a hurry\main.c
+	<stdio.h>
+	<stdlib.h>
+	<inttypes.h>
+

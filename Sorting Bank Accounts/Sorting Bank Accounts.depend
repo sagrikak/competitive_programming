@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1475498548 source:c:\users\saumay\desktop\programs in c\sorting bank accounts\main.c
+	<stdio.h>
+	<stdlib.h>
+	<inttypes.h>
+

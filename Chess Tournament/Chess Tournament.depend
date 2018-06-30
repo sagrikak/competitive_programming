@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1482877906 source:c:\users\saumay\desktop\programs in c\chess tournament\main.c
+	<stdio.h>
+	<math.h>
+

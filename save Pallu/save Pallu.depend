@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1474453876 source:c:\users\saumay\desktop\programs in c\save pallu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<inttypes.h>
+

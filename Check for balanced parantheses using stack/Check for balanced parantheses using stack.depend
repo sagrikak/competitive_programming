@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1480890348 source:c:\users\saumay\desktop\programs in c\check for balanced parantheses using stack\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

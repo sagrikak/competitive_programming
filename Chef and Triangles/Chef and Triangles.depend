@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1474737478 source:c:\users\saumay\desktop\programs in c\chef and triangles\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1480895272 source:c:\users\saumay\desktop\programs in c\evaluate prefix\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

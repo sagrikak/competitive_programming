@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1474729908 source:c:\users\saumay\desktop\programs in c\chef and inequalities\main.c
+	<stdio.h>
+	<stdlib.h>
+	<inttypes.h>
+

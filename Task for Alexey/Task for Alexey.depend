@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1478775886 source:c:\users\saumay\desktop\programs in c\task for alexey\main.c
+	<stdio.h>
+	<stdlib.h>
+	<inttypes.h>
+
