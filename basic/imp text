@@ -1,0 +1,22 @@
+string x;
+string y("ham is spam");//another way to create a string
+
+getline(cin, x);//reads a complete line and stores it in x
+
+x.substr(i, k);//a substring of x starting from index i and ending at i+k
+
+x.swap(y);//swaps two strings with each other
+
+y.find("am")//returns the location of first occurence of "am" in y//1
+
+y.rfind("am")//returns the location of last occurence of "am" in y//9
+
+y.erase(k);//erases all the characters from index k 
+
+y.replace(i, k, "abc");//replaces the characters starting from index i to index i+k with "abc"
+
+y.insert(i, "abc ");//inserts abc at index i in string
+
+
+
+
